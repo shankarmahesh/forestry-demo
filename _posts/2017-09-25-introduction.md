@@ -13,5 +13,9 @@ banner_image: "/uploads/2018/12/07/compass.jpg"
 
 ---
 # Teach Online
+
 # Grow Your Business
+
 Sell **courses** & **mock tests** from your own Apps.
+
+<p class="content_body" style="color: rgba(255,255,255,0.8);padding-top: 10px;font-size: 13px;padding-bottom: 15px;">No credit card required. 14-day free trial. </p>
