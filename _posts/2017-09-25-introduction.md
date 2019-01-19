@@ -12,15 +12,6 @@ layout: post
 banner_image: ''
 
 ---
-Welcome to the Belkirk College of Engineering Demo Site!
-
-This site allows you to explore Forestry's features and functionality, and is **not** meant to be used as a production website. To get started building your own site, please see our [documentation](https://forestry.io/docs/).
-
-Thank you for choosing to demo Forestry!
-
 # Teach Online
 # Grow Your Business
-
-<p style="margin:40px"> custom css </p>
-
-<p class="content_body" style="color: rgba(255,0,0,0.8);padding-top: 10px;font-size: 13px;padding-bottom: 15px;">No credit card required. 14-day free trial. </p>
+Sell **courses** & **mock tests** from your own Apps.
