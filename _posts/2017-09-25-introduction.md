@@ -21,3 +21,5 @@ Thank you for choosing to demo Forestry!
 # Hello world
 
 <p style="margin:40px"> custom css </p>
+
+<p class="content_body" style="color: rgba(255,0,0,0.8);padding-top: 10px;font-size: 13px;padding-bottom: 15px;">No credit card required. 14-day free trial. </p>
