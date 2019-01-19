@@ -18,7 +18,8 @@ This site allows you to explore Forestry's features and functionality, and is **
 
 Thank you for choosing to demo Forestry!
 
-# Hello world
+# Teach Online
+# Grow Your Business
 
 <p style="margin:40px"> custom css </p>
 
